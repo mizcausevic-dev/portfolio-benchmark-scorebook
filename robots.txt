@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://scorebook.kineticgain.com/sitemap.xml

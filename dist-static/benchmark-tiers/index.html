@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Benchmark tiers · Kinetic Gain</title>
+    <meta name="description" content="Benchmark-tier view showing which lanes are strongest and which still need proof or cleanup." />
+    <style>
+      :root { color-scheme: dark; --bg:#07111d; --panel:#0d1a2b; --border:rgba(103,224,190,.22); --text:#edf2ff; --muted:#9fb0cf; --accent:#67e0be; --accent-2:#7dc4ff; }
+      * { box-sizing:border-box; }
+      body { margin:0; font-family:"Segoe UI",system-ui,sans-serif; background:radial-gradient(circle at top left, rgba(125,196,255,.12), transparent 30%), linear-gradient(180deg,#050c16 0%,var(--bg) 100%); color:var(--text); }
+      a { color:var(--accent-2); text-decoration:none; }
+      .wrap { max-width:1180px; margin:0 auto; padding:32px 24px 64px; }
+      .hero,.section { background:linear-gradient(180deg, rgba(14,28,45,.95), rgba(10,19,33,.98)); border:1px solid var(--border); border-radius:28px; padding:28px; box-shadow:0 18px 60px rgba(2,7,16,.35); }
+      .hero { margin-bottom:24px; }
+      .eyebrow { display:inline-block; padding:10px 16px; border-radius:999px; border:1px solid var(--border); background:rgba(103,224,190,.08); color:var(--accent); font-size:12px; text-transform:uppercase; letter-spacing:.28em; }
+      h1,h2 { margin:18px 0 12px; font-family:Georgia,serif; line-height:.95; }
+      h1 { font-size:clamp(56px,8vw,92px); max-width:980px; }
+      h2 { font-size:clamp(36px,4vw,54px); }
+      .lede { color:var(--muted); font-size:20px; line-height:1.6; max-width:920px; }
+      .nav { display:flex; gap:10px; flex-wrap:wrap; margin-top:22px; }
+      .nav a { padding:10px 14px; border:1px solid rgba(125,196,255,.18); border-radius:999px; color:var(--muted); }
+      .nav a.active { color:var(--text); border-color:var(--accent); background:rgba(103,224,190,.08); }
+      .metrics,.grid { display:grid; gap:18px; }
+      .metrics { grid-template-columns:repeat(auto-fit, minmax(180px,1fr)); margin-top:26px; }
+      .metric,.card,.table-wrap { background:rgba(16,32,50,.76); border:1px solid rgba(125,196,255,.12); border-radius:22px; padding:18px; }
+      .metric-label,.chip { color:var(--accent); text-transform:uppercase; letter-spacing:.18em; font-size:12px; }
+      .metric-value { display:block; font-size:40px; font-weight:700; margin-top:10px; }
+      .metric-copy { margin-top:10px; color:var(--muted); line-height:1.5; }
+      .section { margin-top:24px; }
+      .grid { grid-template-columns:repeat(auto-fit, minmax(280px,1fr)); }
+      .card h3 { margin:12px 0 10px; font-size:30px; line-height:1.05; }
+      .card p,li { color:var(--muted); line-height:1.6; }
+      .table-wrap { overflow-x:auto; }
+      table { width:100%; border-collapse:collapse; }
+      th,td { text-align:left; padding:12px; border-bottom:1px solid rgba(125,196,255,.12); vertical-align:top; }
+      th { color:var(--accent); font-size:12px; text-transform:uppercase; letter-spacing:.18em; }
+      ul { padding-left:20px; }
+      pre { white-space:pre-wrap; overflow-wrap:anywhere; color:var(--muted); background:rgba(7,17,29,.75); border:1px solid rgba(125,196,255,.12); border-radius:18px; padding:18px; }
+      .footer { margin-top:24px; color:var(--muted); font-size:14px; display:flex; gap:18px; flex-wrap:wrap; }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <section class="hero"><span class="eyebrow">Benchmark tiers</span><h1>Weak proof, low repeatability, and excess drag stay visible in one scorebook tier room instead of hiding behind a broad portfolio headline.</h1><p class="lede">This view keeps every lane tied to the exact dimension that is strongest, weakest, or most likely to distort the next board story.</p><div class="nav"><a href="/">Overview</a><a href="/scorebook-register">Scorebook register</a><a class="active" href="/benchmark-tiers">Benchmark tiers</a><a href="/investment-posture">Investment posture</a><a href="/verification">Verification</a><a href="/docs">Docs</a></div></section><section class="section table-wrap"><table><thead><tr><th>Lane</th><th>Tier</th><th>Dimension</th><th>Risk headline</th><th>Score signal</th><th>Missing proof</th><th>Score</th><th>Proof</th><th>Pull</th><th>Repeatability</th></tr></thead><tbody><tr><td>AI governance and agent controls</td><td>FLAGSHIP</td><td>CATEGORY_FIT</td><td>AI governance is investable now, but the moat depends on keeping operator proof fresher than the market.</td><td>Strong demand, strong proof, and strong executive attention are all aligned here.</td><td>One tighter board memo and cross-sector proof bundle.</td><td>91</td><td>84</td><td>88</td><td>80</td></tr><tr><td>Procurement and trust operations</td><td>FLAGSHIP</td><td>EVIDENCE_DEPTH</td><td>Procurement is one of the safest lanes to scale because evidence reuse is already strong.</td><td>Buyers, trust reviewers, and commercial teams can all consume the same outputs.</td><td>One tighter benchmark story connecting trust, diligence, and commercial proof reuse.</td><td>86</td><td>90</td><td>82</td><td>84</td></tr><tr><td>Biotech and diagnostics operations</td><td>EXPAND</td><td>EXEC_SIGNAL</td><td>Biotech is credible, but should not be overstated as the primary expansion lane yet.</td><td>The vertical signals seriousness and regulated-infrastructure depth to investors and buyers.</td><td>A tighter benchmark story linking assay, CAPA, specimen, GxP, and safety into one expansion packet.</td><td>78</td><td>83</td><td>69</td><td>66</td></tr><tr><td>FinTech and treasury controls</td><td>PROVE</td><td>COMMERCIAL_PULL</td><td>FinTech is attractive, but it is easier to oversell than to benchmark cleanly right now.</td><td>Commercial pull is there, but the board story still outruns the proof depth slightly.</td><td>A tighter cross-lane packet connecting payments, treasury, KYC, and merchant review.</td><td>72</td><td>68</td><td>84</td><td>63</td></tr><tr><td>Nonprofit and foundation ops</td><td>EXPAND</td><td>IMPLEMENTATION_REPEATABILITY</td><td>Nonprofit is strategically useful, but should stay framed as a pattern-strength lane, not the top growth engine.</td><td>The lane proves the operating system can travel across sectors and still stay legible.</td><td>A better benchmark packet showing how nonprofit patterns map to regulated and commercial lanes.</td><td>74</td><td>77</td><td>58</td><td>81</td></tr><tr><td>Robotics and override operations</td><td>WATCH</td><td>INVESTMENT_PRIORITY</td><td>Robotics is a useful signal lane, but not a top investment priority yet.</td><td>It helps with range and imagination, but the proof set is not yet dense enough to be a flagship.</td><td>More repeatable deployment proof and a stronger board-ready value story.</td><td>61</td><td>57</td><td>55</td><td>52</td></tr></tbody></table></section>
+      <div class="footer">
+        <span>Portfolio Benchmark Scorebook</span>
+        <a href="https://scorebook.kineticgain.com">scorebook.kineticgain.com</a>
+        <a href="https://github.com/mizcausevic-dev/">GitHub</a>
+        <a href="https://www.linkedin.com/in/mirzacausevic/">LinkedIn</a>
+        <a href="https://kineticgain.com/">Kinetic Gain</a>
+      </div>
+    </div>
+  </body>
+</html>

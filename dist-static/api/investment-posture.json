@@ -1,0 +1,50 @@
+[
+  {
+    "lane": "AI governance and agent controls",
+    "action": "INVEST",
+    "executionDragScore": 18,
+    "compositePriorityScore": 85,
+    "owner": "Chief AI Officer",
+    "nextMove": "Use AI governance as the benchmark reference lane for the rest of the portfolio."
+  },
+  {
+    "lane": "Procurement and trust operations",
+    "action": "INVEST",
+    "executionDragScore": 16,
+    "compositePriorityScore": 85.2,
+    "owner": "Chief Commercial Officer",
+    "nextMove": "Package procurement as the proof-reuse benchmark for adjacent commercial surfaces."
+  },
+  {
+    "lane": "Biotech and diagnostics operations",
+    "action": "MAINTAIN",
+    "executionDragScore": 29,
+    "compositePriorityScore": 73.4,
+    "owner": "Quality systems lead",
+    "nextMove": "Package the regulated proof stack into one clearer benchmark brief."
+  },
+  {
+    "lane": "FinTech and treasury controls",
+    "action": "WATCH",
+    "executionDragScore": 34,
+    "compositePriorityScore": 70.6,
+    "owner": "Chief Revenue Officer",
+    "nextMove": "Tighten the FinTech comparison packet before treating it as a top-tier expansion lane."
+  },
+  {
+    "lane": "Nonprofit and foundation ops",
+    "action": "MAINTAIN",
+    "executionDragScore": 24,
+    "compositePriorityScore": 73.2,
+    "owner": "Principal operator",
+    "nextMove": "Use nonprofit to prove operating-system transferability across very different sectors."
+  },
+  {
+    "lane": "Robotics and override operations",
+    "action": "DEPRIORITIZE",
+    "executionDragScore": 41,
+    "compositePriorityScore": 56.8,
+    "owner": "Principal operator",
+    "nextMove": "Keep building proof, but deprioritize it relative to stronger commercial and diligence lanes."
+  }
+]

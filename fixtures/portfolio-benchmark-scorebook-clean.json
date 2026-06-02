@@ -1,0 +1,268 @@
+[
+  {
+    "id": "ai-governance-benchmark",
+    "lane": "AI governance and agent controls",
+    "dimension": "CATEGORY_FIT",
+    "action": "INVEST",
+    "verticalCluster": "AI governance",
+    "scorebookTier": "FLAGSHIP",
+    "boardQuestion": "Which vertical should anchor the board narrative around governed AI and operator safety?",
+    "owner": "Chief AI Officer",
+    "audience": "Board technology committee",
+    "scorebookNarrative": "AI governance is the clearest flagship lane for board-ready intelligence.",
+    "comparativeReality": "The lane is strong, but still needs a tighter proof bundle to separate it from generic AI-advisory noise.",
+    "riskHeadline": "AI governance is investable now, but the moat depends on keeping operator proof fresher than the market.",
+    "scoreSignal": "Strong demand, strong proof, and strong executive attention are all aligned here.",
+    "missingProof": "One tighter board memo and cross-sector proof bundle.",
+    "evidenceArtifacts": [
+      "agent readiness scorecard",
+      "board memo",
+      "governance packet"
+    ],
+    "opportunityMoves": [
+      "double down on flagship positioning",
+      "package benchmark proof",
+      "expand decision-card cross-sell"
+    ],
+    "relatedSurfaces": [
+      "scorecard.kineticgain.com",
+      "memo.kineticgain.com",
+      "suite.kineticgain.com"
+    ],
+    "companyTags": [
+      "OpenAI",
+      "Anthropic",
+      "Microsoft"
+    ],
+    "scorebookScore": 91,
+    "proofDepthScore": 84,
+    "commercialPullScore": 88,
+    "repeatabilityScore": 80,
+    "executionDragScore": 18,
+    "investableRevenueMillions": 41,
+    "headline": "AI governance is the strongest benchmark lane right now.",
+    "nextMove": "Use AI governance as the benchmark reference lane for the rest of the portfolio."
+  },
+  {
+    "id": "procurement-benchmark",
+    "lane": "Procurement and trust operations",
+    "dimension": "EVIDENCE_DEPTH",
+    "action": "INVEST",
+    "verticalCluster": "Procurement / trust",
+    "scorebookTier": "FLAGSHIP",
+    "boardQuestion": "Which lane has the strongest reusable proof room and deal-readiness posture?",
+    "owner": "Chief Commercial Officer",
+    "audience": "Board growth committee",
+    "scorebookNarrative": "Procurement is the best proof-reuse lane for buyer-facing scale.",
+    "comparativeReality": "It is highly benchmarkable, though less category-defining than AI governance.",
+    "riskHeadline": "Procurement is one of the safest lanes to scale because evidence reuse is already strong.",
+    "scoreSignal": "Buyers, trust reviewers, and commercial teams can all consume the same outputs.",
+    "missingProof": "One tighter benchmark story connecting trust, diligence, and commercial proof reuse.",
+    "evidenceArtifacts": [
+      "procurement-ready-os",
+      "security questionnaire studio",
+      "trust center evidence room"
+    ],
+    "opportunityMoves": [
+      "package the trust stack",
+      "benchmark proof reuse",
+      "sell deal-readiness bundle"
+    ],
+    "relatedSurfaces": [
+      "procurement.kineticgain.com",
+      "questionnaire.kineticgain.com",
+      "trust.kineticgain.com"
+    ],
+    "companyTags": [
+      "Vanta",
+      "Drata",
+      "Google"
+    ],
+    "scorebookScore": 86,
+    "proofDepthScore": 90,
+    "commercialPullScore": 82,
+    "repeatabilityScore": 84,
+    "executionDragScore": 16,
+    "investableRevenueMillions": 29,
+    "headline": "Procurement is the cleanest reusable trust and diligence lane.",
+    "nextMove": "Package procurement as the proof-reuse benchmark for adjacent commercial surfaces."
+  },
+  {
+    "id": "biotech-benchmark",
+    "lane": "Biotech and diagnostics operations",
+    "dimension": "EXEC_SIGNAL",
+    "action": "MAINTAIN",
+    "verticalCluster": "Biotech / diagnostics",
+    "scorebookTier": "EXPAND",
+    "boardQuestion": "Which regulated lane is strongest enough to defend as a serious vertical, not just a curiosity?",
+    "owner": "Quality systems lead",
+    "audience": "Board compliance committee",
+    "scorebookNarrative": "Biotech is a credible regulated-intelligence lane with strong seriousness signal.",
+    "comparativeReality": "Proof is strong, but commercial pull and repeatability are still less visible than the flagship lanes.",
+    "riskHeadline": "Biotech is credible, but should not be overstated as the primary expansion lane yet.",
+    "scoreSignal": "The vertical signals seriousness and regulated-infrastructure depth to investors and buyers.",
+    "missingProof": "A tighter benchmark story linking assay, CAPA, specimen, GxP, and safety into one expansion packet.",
+    "evidenceArtifacts": [
+      "assay release readiness",
+      "batch deviation CAPA ledger",
+      "gxp change control board"
+    ],
+    "opportunityMoves": [
+      "cluster the biotech proof",
+      "publish regulated benchmark brief",
+      "raise repeatability story"
+    ],
+    "relatedSurfaces": [
+      "assay.kineticgain.com",
+      "capa.kineticgain.com",
+      "gxp.kineticgain.com",
+      "safety.kineticgain.com"
+    ],
+    "companyTags": [
+      "Veeva",
+      "Thermo Fisher",
+      "LabVantage"
+    ],
+    "scorebookScore": 78,
+    "proofDepthScore": 83,
+    "commercialPullScore": 69,
+    "repeatabilityScore": 66,
+    "executionDragScore": 29,
+    "investableRevenueMillions": 21,
+    "headline": "Biotech is credible and useful, but not yet the top scaling lane.",
+    "nextMove": "Package the regulated proof stack into one clearer benchmark brief."
+  },
+  {
+    "id": "fintech-benchmark",
+    "lane": "FinTech and treasury controls",
+    "dimension": "COMMERCIAL_PULL",
+    "action": "WATCH",
+    "verticalCluster": "FinTech",
+    "scorebookTier": "PROVE",
+    "boardQuestion": "Where does the commercial story look good, but the benchmark proof is still thin?",
+    "owner": "Chief Revenue Officer",
+    "audience": "Board finance committee",
+    "scorebookNarrative": "Payments, treasury, and merchant review create a credible commercial wedge.",
+    "comparativeReality": "The lane has strong market language but still needs denser operator proof and lower execution drag.",
+    "riskHeadline": "FinTech is attractive, but it is easier to oversell than to benchmark cleanly right now.",
+    "scoreSignal": "Commercial pull is there, but the board story still outruns the proof depth slightly.",
+    "missingProof": "A tighter cross-lane packet connecting payments, treasury, KYC, and merchant review.",
+    "evidenceArtifacts": [
+      "payment reconciliation exception desk",
+      "treasury liquidity signal lab",
+      "merchant risk review console"
+    ],
+    "opportunityMoves": [
+      "tighten the FinTech proof stack",
+      "benchmark revenue tie-in",
+      "reduce execution drag"
+    ],
+    "relatedSurfaces": [
+      "payments.kineticgain.com",
+      "treasury.kineticgain.com",
+      "merchant.kineticgain.com",
+      "kyc.kineticgain.com"
+    ],
+    "companyTags": [
+      "Stripe",
+      "Plaid",
+      "Power BI"
+    ],
+    "scorebookScore": 72,
+    "proofDepthScore": 68,
+    "commercialPullScore": 84,
+    "repeatabilityScore": 63,
+    "executionDragScore": 34,
+    "investableRevenueMillions": 26,
+    "headline": "FinTech is promising, but not yet benchmark-tight.",
+    "nextMove": "Tighten the FinTech comparison packet before treating it as a top-tier expansion lane."
+  },
+  {
+    "id": "nonprofit-benchmark",
+    "lane": "Nonprofit and foundation ops",
+    "dimension": "IMPLEMENTATION_REPEATABILITY",
+    "action": "MAINTAIN",
+    "verticalCluster": "Nonprofit / foundation ops",
+    "scorebookTier": "EXPAND",
+    "boardQuestion": "Which niche lane is more reusable than its surface area first suggests?",
+    "owner": "Principal operator",
+    "audience": "Board strategy committee",
+    "scorebookNarrative": "Nonprofit is a reusable operating-shape lane, not just a one-off niche.",
+    "comparativeReality": "The lane is repeatable, though the commercial ceiling is lower than AI governance or procurement.",
+    "riskHeadline": "Nonprofit is strategically useful, but should stay framed as a pattern-strength lane, not the top growth engine.",
+    "scoreSignal": "The lane proves the operating system can travel across sectors and still stay legible.",
+    "missingProof": "A better benchmark packet showing how nonprofit patterns map to regulated and commercial lanes.",
+    "evidenceArtifacts": [
+      "grant compliance evidence desk",
+      "program outcome proof ledger",
+      "donor stewardship ops console"
+    ],
+    "opportunityMoves": [
+      "tell the repeatability story",
+      "pair nonprofit with board narrative examples",
+      "show transferability"
+    ],
+    "relatedSurfaces": [
+      "grants.kineticgain.com",
+      "outcomes.kineticgain.com",
+      "stewardship.kineticgain.com"
+    ],
+    "companyTags": [
+      "Salesforce",
+      "Blackbaud",
+      "Google"
+    ],
+    "scorebookScore": 74,
+    "proofDepthScore": 77,
+    "commercialPullScore": 58,
+    "repeatabilityScore": 81,
+    "executionDragScore": 24,
+    "investableRevenueMillions": 13,
+    "headline": "Nonprofit is more reusable than it first appears.",
+    "nextMove": "Use nonprofit to prove operating-system transferability across very different sectors."
+  },
+  {
+    "id": "robotics-benchmark",
+    "lane": "Robotics and override operations",
+    "dimension": "INVESTMENT_PRIORITY",
+    "action": "DEPRIORITIZE",
+    "verticalCluster": "Robotics",
+    "scorebookTier": "WATCH",
+    "boardQuestion": "Which lane is interesting but not yet strong enough to pull capital ahead of the better benchmarked clusters?",
+    "owner": "Principal operator",
+    "audience": "Board innovation committee",
+    "scorebookNarrative": "Robotics proves ambition and operator seriousness.",
+    "comparativeReality": "The lane is still too light to outrank procurement, AI governance, or regulated systems for near-term board focus.",
+    "riskHeadline": "Robotics is a useful signal lane, but not a top investment priority yet.",
+    "scoreSignal": "It helps with range and imagination, but the proof set is not yet dense enough to be a flagship.",
+    "missingProof": "More repeatable deployment proof and a stronger board-ready value story.",
+    "evidenceArtifacts": [
+      "robot fleet exception board",
+      "sensor health drift monitor",
+      "human override readiness console"
+    ],
+    "opportunityMoves": [
+      "keep the lane alive",
+      "add proof density slowly",
+      "avoid over-weighting it in the board story"
+    ],
+    "relatedSurfaces": [
+      "robots.kineticgain.com",
+      "sensor.kineticgain.com",
+      "override.kineticgain.com"
+    ],
+    "companyTags": [
+      "NVIDIA",
+      "Boston Dynamics",
+      "AWS"
+    ],
+    "scorebookScore": 61,
+    "proofDepthScore": 57,
+    "commercialPullScore": 55,
+    "repeatabilityScore": 52,
+    "executionDragScore": 41,
+    "investableRevenueMillions": 9,
+    "headline": "Robotics should stay in the portfolio, but not near the front of the board narrative.",
+    "nextMove": "Keep building proof, but deprioritize it relative to stronger commercial and diligence lanes."
+  }
+]
