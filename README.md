@@ -2,7 +2,7 @@
 
 Board-ready executive-intelligence surface for ranking the broader Kinetic Gain portfolio into one reusable benchmark scorebook.
 
-- Live: `http://scorebook.kineticgain.com/`
+- Live: `https://scorebook.kineticgain.com/`
 - Repo: `mizcausevic-dev/portfolio-benchmark-scorebook`
 
 ## Why this matters
